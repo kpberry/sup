@@ -1,1 +1,8 @@
-Usage: ./sup.sh
+Usage: 
+```bash
+    ./sup.sh
+```
+or
+```python
+    python tfill.py
+```
