@@ -4,5 +4,5 @@ Usage:
 ```
 or
 ```python
-    python tfill.py
+    python3 tfill.py
 ```

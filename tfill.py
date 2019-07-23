@@ -1,8 +1,7 @@
-from time import sleep
-from math import ceil
+import argparse
 import shutil
 import sys
-import argparse
+from time import sleep
 
 def tfill(text, delay):
     cols, rows = shutil.get_terminal_size((80, 20))
